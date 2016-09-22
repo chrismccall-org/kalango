@@ -14,7 +14,7 @@
 #import "RCTRootView.h"
 
 #define TIMEOUT_SECONDS 600
-#define TEXT_TO_LOOK_FOR @"Welcome to React Kalango!"
+#define TEXT_TO_LOOK_FOR @"Welcome to Kalango!"
 
 @interface KalangoTests : XCTestCase
 
