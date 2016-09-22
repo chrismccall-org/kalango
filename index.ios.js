@@ -17,14 +17,13 @@ class Kalango extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to React Native!
+          Welcome to Kalango!
         </Text>
         <Text style={styles.instructions}>
-          To get started, edit index.ios.js
+          Some day there will be something useful here!
         </Text>
         <Text style={styles.instructions}>
-          Press Cmd+R to reload,{'\n'}
-          Cmd+D or shake for dev menu
+          shake for dev menu
         </Text>
       </View>
     );
